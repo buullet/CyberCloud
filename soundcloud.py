@@ -50,7 +50,7 @@ class Checker:
 
 
 if __name__ == '__main__':
-    system('cls && title SoundCloud Username Checker by Cyclone and github.com/Cyclone369')
+    system('cls && title SoundCloud Username Checker by Bullet and github.com/buullet')
 
     with open('usernames.txt', encoding='UTF-8') as f:
         username_list = [line.strip() for line in f]
